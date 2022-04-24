@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "an app to tell the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remiferiaa/weather-app.git"
+  },
+  "author": "Remiferiaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Remiferiaa/weather-app/issues"
+  },
+  "homepage": "https://github.com/Remiferiaa/weather-app#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.6.0",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
